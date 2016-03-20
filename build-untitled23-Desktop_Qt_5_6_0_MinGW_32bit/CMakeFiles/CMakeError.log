@@ -1,0 +1,36 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ/CMakeFiles/CMakeTmp
+
+Run Build Command:"E:/Qt/Tools/mingw492_32/bin/mingw32-make.exe" "cmTC_93f34/fast"
+E:/Qt/Tools/mingw492_32/bin/mingw32-make.exe -f CMakeFiles\cmTC_93f34.dir\build.make CMakeFiles/cmTC_93f34.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-По умолчанию/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_93f34.dir/testCCompiler.c.obj
+E:\Qt\Tools\mingw492_32\bin\gcc.exe     -o CMakeFiles\cmTC_93f34.dir\testCCompiler.c.obj   -c "E:\Qt\Projects\new\cppCurses\build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: E:\Qt\Projects\new\cppCurses\build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_93f34.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_93f34.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_93f34.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-По умолчанию/CMakeFiles/CMakeTmp'
+makefile:125: recipe for target 'cmTC_93f34/fast' failed
+mingw32-make.exe: *** [cmTC_93f34/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ/CMakeFiles/CMakeTmp
+
+Run Build Command:"E:/Qt/Tools/mingw492_32/bin/mingw32-make.exe" "cmTC_25a46/fast"
+E:/Qt/Tools/mingw492_32/bin/mingw32-make.exe -f CMakeFiles\cmTC_25a46.dir\build.make CMakeFiles/cmTC_25a46.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-По умолчанию/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_25a46.dir/testCCompiler.c.obj
+E:\Qt\Tools\mingw492_32\bin\gcc.exe     -o CMakeFiles\cmTC_25a46.dir\testCCompiler.c.obj   -c "E:\Qt\Projects\new\cppCurses\build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: E:\Qt\Projects\new\cppCurses\build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-РџРѕ СѓРјРѕР»С‡Р°РЅРёСЋ\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_25a46.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_25a46.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_25a46.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/Qt/Projects/new/cppCurses/build-untitled23-Desktop_Qt_5_6_0_MinGW_32bit-По умолчанию/CMakeFiles/CMakeTmp'
+makefile:125: recipe for target 'cmTC_25a46/fast' failed
+mingw32-make.exe: *** [cmTC_25a46/fast] Error 2
+
+
